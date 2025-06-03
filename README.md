@@ -89,29 +89,8 @@ Aşağıda, başarıyla oluşturulmuş ve kullanılan Flash USDT örneklerine ai
 
 ## 📸 Kanıtlar ve Video Tanıtımlar
 
-### ✅ Token Oluşturma Başarısı (Görsel)
-
-![Flash USDT Başarı](https://i.imgur.com/IbHDCTa.png)
-
----
-
-### 🎬 Video 1: Akıllı Kontrat Dağıtımı (Tıklanabilir)
-
-[![Video Önizleme](https://i.imgur.com/YZX8Rqc.png)](https://imgur.com/a/dfcsfoY "Videoyu İzlemek İçin Tıklayın")
-
----
-
-### 🎬 Video 2: Transfer İşlemi Başarısı (Tıklanabilir)
-
-[![Video Önizleme 2](https://i.imgur.com/Fkltks2.png)](https://imgur.com/a/ZqSBWSm "Videoyu İzlemek İçin Tıklayın")
-
-
----
-
-## 🎥 Video Rehberi
-
-📽 YouTube Tanıtım Videosu:  
-[![YouTube Tanıtım Videosu](https://img.youtube.com/vi/bU3cr29UrL8/0.jpg)](https://www.youtube.com/watch?v=bU3cr29UrL8)
+- 🔗 [Video 1 (Imgur)](https://imgur.com/a/dfcsfoY)
+- 🔗 [Video 2 (Imgur)](https://imgur.com/a/ZqSBWSm)
 
 
 ---
