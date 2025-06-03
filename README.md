@@ -87,23 +87,39 @@ Bu token’lar:
 
 Aşağıda, başarıyla oluşturulmuş ve kullanılan Flash USDT örneklerine ait ekran görüntülerini bulabilirsiniz:
 
-[![Kanıt 1](https://i.imgur.com/1zu7k1d.png)](https://imgur.com/a/p4Vi7nT)  
-[![Kanıt 2](https://i.imgur.com/PLFzfb1.png)](https://imgur.com/a/dfcsfoY)  
-[![Kanıt 3](https://i.imgur.com/8mEq4mv.png)](https://imgur.com/a/ZqSBWSm)
+## 📸 Kanıtlar ve Video Tanıtımlar
+
+### ✅ Token Oluşturma Başarısı (Görsel)
+
+![Flash USDT Başarı](https://i.imgur.com/IbHDCTa.png)
+
+---
+
+### 🎬 Video 1: Akıllı Kontrat Dağıtımı (Tıklanabilir)
+
+[![Video Önizleme](https://i.imgur.com/YZX8Rqc.png)](https://imgur.com/a/dfcsfoY "Videoyu İzlemek İçin Tıklayın")
+
+---
+
+### 🎬 Video 2: Transfer İşlemi Başarısı (Tıklanabilir)
+
+[![Video Önizleme 2](https://i.imgur.com/Fkltks2.png)](https://imgur.com/a/ZqSBWSm "Videoyu İzlemek İçin Tıklayın")
+
 
 ---
 
 ## 🎥 Video Rehberi
 
 📽 YouTube Tanıtım Videosu:  
-[https://www.youtube.com/watch?v=bU3cr29UrL8](https://www.youtube.com/watch?v=bU3cr29UrL8)
+[![YouTube Tanıtım Videosu](https://img.youtube.com/vi/bU3cr29UrL8/0.jpg)](https://www.youtube.com/watch?v=bU3cr29UrL8)
+
 
 ---
 
 ## 🧑‍💻 Destek ve İletişim
 
 📬 Telegram Destek: [@officiercrypto](https://t.me/officiercrypto)  
-📧 İletişim: officiercrypto@gmail.com  
+
 
 ---
 
