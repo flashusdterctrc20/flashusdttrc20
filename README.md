@@ -83,15 +83,18 @@ Bu token’lar:
 
 ---
 
-## 📸 Kanıtlar
-
-Aşağıda, başarıyla oluşturulmuş ve kullanılan Flash USDT örneklerine ait ekran görüntülerini bulabilirsiniz:
-
 ## 📸 Kanıtlar ve Video Tanıtımlar
 
+### 🖼️ Imgur Kanıtları
+- 🔗 [Ekran Görüntüsü (Imgur)](https://imgur.com/a/p4Vi7nT)
 - 🔗 [Video 1 (Imgur)](https://imgur.com/a/dfcsfoY)
 - 🔗 [Video 2 (Imgur)](https://imgur.com/a/ZqSBWSm)
 
+### 🎬 YouTube Tanıtım Videosu
+
+[![YouTube Video](https://img.youtube.com/vi/bU3cr29UrL8/hqdefault.jpg)](https://www.youtube.com/watch?v=bU3cr29UrL8)
+
+> 📺 [Videoyu YouTube’da İzle](https://www.youtube.com/watch?v=bU3cr29UrL8)
 
 ---
 
@@ -99,10 +102,8 @@ Aşağıda, başarıyla oluşturulmuş ve kullanılan Flash USDT örneklerine ai
 
 📬 Telegram Destek: [@officiercrypto](https://t.me/officiercrypto)  
 
-
 ---
 
 ## ⚠️ Uyarı
 
 > Bu yazılım yalnızca **eğitim ve test** amaçlı sunulmuştur. Her kullanıcı, kendi yaptığı işlemlerden **tamamen sorumludur**. Gerçek varlıkları temsil etmez. Lütfen yalnızca deneme amacıyla kullanın.
-
